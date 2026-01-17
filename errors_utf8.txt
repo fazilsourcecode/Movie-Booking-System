@@ -1,0 +1,10 @@
+﻿src/api/mockApi.ts(85,5): error TS6133: 'showId' is declared but its value is never read.
+src/App.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/features/booking/bookingSlice.ts(1,23): error TS1484: 'PayloadAction' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/BookingPage.tsx(9,5): error TS6133: 'setQueuePosition' is declared but its value is never read.
+src/pages/BookingPage.tsx(14,1): error TS6192: All imports in import declaration are unused.
+src/pages/BookingPage.tsx(15,17): error TS6133: 'Users' is declared but its value is never read.
+src/pages/BookingPage.tsx(15,35): error TS6133: 'ShieldCheck' is declared but its value is never read.
+src/pages/MovieDetails.tsx(7,23): error TS6133: 'Calendar' is declared but its value is never read.
+src/pages/MovieDetails.tsx(7,47): error TS6133: 'Share2' is declared but its value is never read.
+src/pages/MovieDetails.tsx(7,55): error TS6133: 'Heart' is declared but its value is never read.
